@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="115 72 432 427" width="317px" height="355px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="119" height="20" x="199" y="312" style="fill:#007;stroke:black;"/>
+   <text width="119" height="20" x="204" y="326" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_customer</text>
+   <rect width="119" height="20" x="199" y="332" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="204" y="346" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="119" height="20" x="199" y="352" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="204" y="366" style="fill:black;" font-family="Arial" font-size="16px">customerName</text>
+   <rect width="119" height="20" x="199" y="372" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="204" y="386" style="fill:black;" font-family="Arial" font-size="16px">firstName</text>
+   <rect width="119" height="20" x="199" y="392" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="204" y="406" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="88" height="20" x="329" y="154" style="fill:#007;stroke:black;"/>
+   <text width="88" height="20" x="334" y="168" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_offices</text>
+   <rect width="88" height="20" x="329" y="174" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="334" y="188" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="88" height="20" x="329" y="194" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="334" y="208" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="88" height="20" x="329" y="214" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="334" y="228" style="fill:black;" font-family="Arial" font-size="16px">country</text>
+   <rect width="88" height="20" x="329" y="234" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="334" y="248" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="109" height="20" x="130" y="87" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="135" y="101" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_payment</text>
+   <rect width="109" height="20" x="130" y="107" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="135" y="121" style="fill:black;" font-family="Arial" font-size="16px">checkNumber</text>
+   <rect width="109" height="20" x="130" y="127" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="135" y="141" style="fill:black;" font-family="Arial" font-size="16px">paymentdate</text>
+   <rect width="109" height="20" x="130" y="147" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="135" y="161" style="fill:black;" font-family="Arial" font-size="16px">amount</text>
+   <rect width="109" height="20" x="130" y="167" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="135" y="181" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+</svg>
